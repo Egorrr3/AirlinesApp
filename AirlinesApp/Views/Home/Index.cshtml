@@ -2,7 +2,74 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Airline Project</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .fixed-contact {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            padding: 50px 15px;
+        }
+        .links {
+            margin: 0px 15px 60px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container mt-5">
+    <div class="jumbotron">
+        <h1 class="display-4">Welcome to our Airline!</h1>
+        <p class="lead">Discover the world with our flights. Book your tickets now!</p>
+        <hr class="my-4">
+        <p>Explore our destinations and enjoy a comfortable journey with us.</p>
+        <a class="btn btn-primary btn-lg" href="@Url.Action("Index", "Passengers")" role="button">Book Now</a>
+    </div>
+
+    <section class="mt-5 fixed-contact">
+        <h2>Contact Us</h2>
+        <p>For any help , feel free to contact us:</p>
+        <address>
+            <strong>Email:</strong> info@airline.com<br>
+            <strong>Phone:</strong> +1 (555) 123-4567
+        </address>
+    </section>
 </div>
+
+<div class="bg-light links container mt-5">
+    <h4>Quick Links</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Link</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="@Url.Action("Index", "Airports")">Airports</a></td>
+                <td>Explore information about airports.</td>
+            </tr>
+            <tr>
+                <td><a href="@Url.Action("Index", "Cities")">Cities</a></td>
+                <td>Look for info about available cities.</td>
+            </tr>
+            <tr>
+                <td><a href="@Url.Action("Index", "Flights")">Flights</a></td>
+                <td>View and manage flight details.</td>
+            </tr>
+            <tr>
+                <td><a href="@Url.Action("Index", "Passengers")">Passengers</a></td>
+                <td>Check information about passengers.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
