@@ -123,24 +123,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Denis\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Professional\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesInfo\\AirlinesInfo.csproj",
+      "projectUniqueName": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesInfo\\AirlinesInfo.csproj",
       "projectName": "AirlinesInfo",
-      "projectPath": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesInfo\\AirlinesInfo.csproj",
-      "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesInfo\\obj\\",
+      "projectPath": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesInfo\\AirlinesInfo.csproj",
+      "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesInfo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -187,7 +182,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

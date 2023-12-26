@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oWtBXUzQvTQnXBxCKe8t3uPEQxUbPNEcG/uPr/lyvnbMlL/sFGLU2YVG661sFzGy/g5BF/xXwRnalr7yerN26A==",
+  "dgSpecHash": "/nJbDf880eFjmN385da1DH+kzsF7Jk10cfg0Ax4Kkrd/frIhB+ZRjG1GWmd2Kvin59IFBy9W55k/t0Ug+hw2cQ==",
   "success": true,
-  "projectFilePath": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesInfo\\AirlinesInfo.csproj",
+  "projectFilePath": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesInfo\\AirlinesInfo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Denis\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
-    "C:\\Users\\Denis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\Denis\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\Professional\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

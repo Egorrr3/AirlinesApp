@@ -15,3 +15,20 @@ C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\r
 C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.pdb
 C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.genruntimeconfig.cache
 C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\ref\AirlinesInfo.dll
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.exe
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.deps.json
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.runtimeconfig.json
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.dll
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.pdb
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.AssemblyInfo.cs
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.csproj.CopyComplete
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.dll
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\refint\AirlinesInfo.dll
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.pdb
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.genruntimeconfig.cache
+C:\Users\Professional\Desktop\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\ref\AirlinesInfo.dll

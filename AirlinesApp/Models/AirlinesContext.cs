@@ -25,8 +25,6 @@ public partial class AirlinesContext : DbContext
 
     public virtual DbSet<Ticket> Tickets { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Server=DESKTOP-97Q88N1\\SQLEXPRESS;Database=Airlines; Trusted_Connection=True; TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
