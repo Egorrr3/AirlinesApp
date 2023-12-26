@@ -1,0 +1,17 @@
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.exe
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.deps.json
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.runtimeconfig.json
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.dll
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\AirlinesInfo.pdb
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.csproj.AssemblyReference.cache
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.AssemblyInfoInputs.cache
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.AssemblyInfo.cs
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.csproj.CoreCompileInputs.cache
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.csproj.CopyComplete
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.dll
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\refint\AirlinesInfo.dll
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.pdb
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\AirlinesInfo.genruntimeconfig.cache
+C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesInfo\obj\Debug\net7.0\ref\AirlinesInfo.dll

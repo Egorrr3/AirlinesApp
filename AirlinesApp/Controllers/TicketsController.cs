@@ -7,21 +7,25 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AirlinesApp.Models;
 using System.Text.Json.Serialization.Metadata;
+using RestaurantWebApplication.RabbitMQ;
 
 namespace AirlinesApp.Controllers
 {
     public class TicketsController : Controller
     {
         private readonly AirlinesContext _context;
+        private readonly IRabbitMqService _rabbitMqService;
 
         public TicketsController(AirlinesContext context)
         {
             _context = context;
+            _rabbitMqService = new RabbitMQService();
         }
 
         // GET: Tickets
         public async Task<IActionResult> Index(int? id, string? name)
         {
+            _rabbitMqService.SendMessage("Tickets page");
             if (id == null || name == null)
             {
                 return RedirectToAction("Index", "Passengers");

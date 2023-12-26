@@ -6,22 +6,26 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AirlinesApp.Models;
+using RestaurantWebApplication.RabbitMQ;
 
 namespace AirlinesApp.Controllers
 {
     public class PassengersController : Controller
     {
         private readonly AirlinesContext _context;
+        private readonly IRabbitMqService _rabbitMqService;
 
         public PassengersController(AirlinesContext context)
         {
             _context = context;
+            _rabbitMqService = new RabbitMQService();
         }
 
         // GET: Passengers
         public async Task<IActionResult> Index()
         {
-              return _context.Passengers != null ? 
+            _rabbitMqService.SendMessage("Passengers page");
+            return _context.Passengers != null ? 
                           View(await _context.Passengers.ToListAsync()) :
                           Problem("Entity set 'AirlinesContext.Passengers'  is null.");
         }

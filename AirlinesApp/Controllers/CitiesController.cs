@@ -6,24 +6,35 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AirlinesApp.Models;
+using Microsoft.Extensions.Caching.Memory;
+using RestaurantWebApplication.RabbitMQ;
 
 namespace AirlinesApp.Controllers
 {
     public class CitiesController : Controller
     {
         private readonly AirlinesContext _context;
+        private readonly IMemoryCache _cache;
+        private readonly IRabbitMqService _rabbitMqService;
 
-        public CitiesController(AirlinesContext context)
+        public CitiesController(AirlinesContext context, IMemoryCache cache)
         {
             _context = context;
+            _cache = cache;
+            _rabbitMqService = new RabbitMQService();
         }
 
         // GET: Cities
         public async Task<IActionResult> Index()
         {
-              return _context.Cities != null ? 
-                          View(await _context.Cities.ToListAsync()) :
-                          Problem("Entity set 'AirlinesContext.Cities'  is null.");
+            _rabbitMqService.SendMessage("Cities page");
+            var cities = await _cache.GetOrCreateAsync("Cities", async entry =>
+            {
+                entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(20);
+
+                return await _context.Cities.ToListAsync();
+            });
+            return View(cities);
         }
 
         // GET: Cities/Details/5

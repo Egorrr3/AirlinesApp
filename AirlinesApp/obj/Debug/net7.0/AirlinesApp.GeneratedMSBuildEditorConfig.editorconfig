@@ -9,137 +9,139 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AirlinesApp
 build_property.RootNamespace = AirlinesApp
-build_property.ProjectDir = C:\Users\Professional\Desktop\AirlinesApp\AirlinesApp\
+build_property.ProjectDir = C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Professional\Desktop\AirlinesApp\AirlinesApp
+build_property.MSBuildProjectDirectory = C:\Main\University\WEB\+\Egor Phedun\AirlinesApp\AirlinesApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Airports/Create.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Airports/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Airports/Delete.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Airports/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Airports/Details.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Airports/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Airports/Edit.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Airports/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Airports/Index.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Airports/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Cities/Create.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Cities/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Cities/Delete.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Cities/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Cities/Details.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Cities/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Cities/Edit.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Cities/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Cities/Index.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Cities/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Flights/Create.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Flights/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Flights/Delete.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Flights/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Flights/Details.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Flights/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Flights/Edit.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Flights/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Flights/Index.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Flights/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Home/Index.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Home/Privacy.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Passengers/Create.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Passengers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2VuZ2Vyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Passengers/Delete.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Passengers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2VuZ2Vyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Passengers/Details.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Passengers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2VuZ2Vyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Passengers/Edit.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Passengers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2VuZ2Vyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Passengers/Index.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Passengers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2VuZ2Vyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Shared/Error.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Tickets/Create.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Tickets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Tickets/Delete.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Tickets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Tickets/Details.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Tickets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Tickets/Edit.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Tickets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Tickets/Index.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Tickets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/_ViewImports.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/_ViewStart.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Professional/Desktop/AirlinesApp/AirlinesApp/Views/Shared/_Layout.cshtml]
+[C:/Main/University/WEB/+/Egor Phedun/AirlinesApp/AirlinesApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1cvvyqeizq

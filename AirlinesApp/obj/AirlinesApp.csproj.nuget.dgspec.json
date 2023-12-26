@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj": {}
+    "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj": {
+    "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj",
+        "projectUniqueName": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj",
         "projectName": "AirlinesApp",
-        "projectPath": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj",
-        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\Desktop\\AirlinesApp\\AirlinesApp\\obj\\",
+        "projectPath": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesApp\\AirlinesApp.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "C:\\Main\\University\\WEB\\+\\Egor Phedun\\AirlinesApp\\AirlinesApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,6 +75,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             }
           },
           "imports": [
@@ -92,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

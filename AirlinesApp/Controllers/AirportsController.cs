@@ -6,21 +6,25 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AirlinesApp.Models;
+using RestaurantWebApplication.RabbitMQ;
 
 namespace AirlinesApp.Controllers
 {
     public class AirportsController : Controller
     {
         private readonly AirlinesContext _context;
+        private readonly IRabbitMqService _rabbitMqService;
 
         public AirportsController(AirlinesContext context)
         {
             _context = context;
+            _rabbitMqService = new RabbitMQService();
         }
 
         // GET: Airports
         public async Task<IActionResult> Index()
         {
+            _rabbitMqService.SendMessage("Airports page");
             var airlinesContext = _context.Airports.Include(a => a.City);
             return View(await airlinesContext.ToListAsync());
         }
